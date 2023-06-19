@@ -1,6 +1,6 @@
 # bulkmv
 
-A very simple, yet effective rust utility to copy files from one directory to another... in parallel ! 
+A very simple, yet effective rust utility to copy files from one directory to another... in parallel! 
 
 ## Motivation
 
