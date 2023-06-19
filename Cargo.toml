@@ -1,0 +1,11 @@
+[package]
+name = "bulkmv"
+version = "1.0.1"
+edition = "2021"
+
+[dependencies]
+clap = { version = "4.3.4", features = ["derive"] }
+indicatif = { version = "0.17.5", features = ["rayon"] }
+rayon = "1.7.0"
+retry = "2.0.0"
+walkdir = "2.3.3"
